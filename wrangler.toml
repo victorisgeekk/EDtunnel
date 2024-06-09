@@ -7,7 +7,7 @@ compatibility_date = "2023-05-26"
 
 [vars]
 # UUID = "97a7bd90-4b89-42ba-b0b5-ec282c7a7a29"
-# PROXYIP = "simreg.atom.com.mm"
+# PROXYIP = "cg.atom.com.mm"
 # DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
 # NODE_ID = "1"
 # API_TOKEN = "example_dev_token"
